@@ -1,0 +1,23 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="286.06" height="107.454" viewBox="0 0 286.06 107.454" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Analytics panel">
+<rect x="0.435625" y="0.435625" width="285.189" height="106.583" rx="8.27687" fill="#0C0C0D"/>
+<rect x="0.435625" y="0.435625" width="285.189" height="106.583" rx="8.27687" stroke="#45464A" stroke-width="0.87125"/>
+<rect id="Pane" x="11.2536" y="11.2536" width="131.414" height="84.9469" rx="5.44531" stroke="#262629" stroke-width="0.726042"/>
+<rect id="Pane_2" x="152.106" y="11.2536" width="122.701" height="84.9469" rx="5.44531" stroke="#262629" stroke-width="0.726042"/>
+<rect id="Bar" x="26.1377" y="69.6992" width="10.8906" height="15.9729" rx="2.17812" fill="#46494F"/>
+<rect id="Bar_2" x="43.5625" y="60.9863" width="10.8906" height="24.6854" rx="2.17812" fill="#46494F"/>
+<rect id="Bar_3" x="60.9875" y="53.7267" width="10.8906" height="31.9458" rx="2.17812" fill="#46494F"/>
+<rect id="Bar_4" x="78.4125" y="43.5625" width="10.8906" height="42.1104" rx="2.17812" fill="#46494F"/>
+<rect id="Bar_5" x="95.8375" y="33.3984" width="10.8906" height="52.275" rx="2.17812" fill="#2F6BFF"/>
+<rect id="Bar_6" x="113.263" y="23.2324" width="10.8906" height="62.4396" rx="2.17812" fill="#2F6BFF"/>
+<circle id="Dot" cx="168.079" cy="28.6788" r="3.99323" fill="#2F6BFF"/>
+<rect id="Bar_7" x="179.332" y="25.4102" width="81.3167" height="3.99323" rx="1.8151" fill="#46494F"/>
+<rect id="Bar_8" x="179.332" y="34.123" width="53.7271" height="3.99323" rx="1.8151" fill="#34363B"/>
+<circle id="Dot_2" cx="168.079" cy="51.9112" r="3.99323" fill="#2F6BFF" fill-opacity="0.75"/>
+<rect id="Bar_9" x="179.332" y="48.6444" width="81.3167" height="3.99323" rx="1.8151" fill="#46494F"/>
+<rect id="Bar_10" x="179.332" y="57.3574" width="53.7271" height="3.99323" rx="1.8151" fill="#34363B"/>
+<circle id="Dot_3" cx="168.079" cy="75.1456" r="3.99323" fill="#46494F"/>
+<rect id="Bar_11" x="179.332" y="71.877" width="81.3167" height="3.99323" rx="1.8151" fill="#46494F"/>
+<rect id="Bar_12" x="179.332" y="80.5898" width="53.7271" height="3.99323" rx="1.8151" fill="#34363B"/>
+</g>
+</svg>

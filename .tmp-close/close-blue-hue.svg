@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="2070" height="1548" viewBox="0 0 2070 1548" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="BLUE HUE 3" filter="url(#close-hue3-f)">
+<ellipse cx="1035" cy="774" rx="399" ry="138" fill="#0131AE" fill-opacity="0.52"/>
+</g>
+<defs>
+<filter id="close-hue3-f" x="0" y="0" width="2070" height="1548" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="318" result="close-hue3-blur"/>
+</filter>
+</defs>
+</svg>
